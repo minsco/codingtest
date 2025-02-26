@@ -13,3 +13,12 @@
 3. [한윤정이 이탈리아에 가서 아이스크림을 사먹는데 ](https://www.acmicpc.net/problem/2422)
 4. [DNA](https://www.acmicpc.net/problem/1969)
 5. [카드 놓기](https://www.acmicpc.net/problem/5568)
+
+## 3주차 
+
+1. [거스름돈](https://www.acmicpc.net/problem/14916)
+2. [로프](https://www.acmicpc.net/problem/2217)
+3. [ATM](https://www.acmicpc.net/problem/11399)
+4. [동전0](https://www.acmicpc.net/problem/11047)
+5. [A->B](https://www.acmicpc.net/problem/16953)
+
