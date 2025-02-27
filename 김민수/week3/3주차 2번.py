@@ -9,7 +9,7 @@ max_min = 0
 i = 0 
 
 while n > 0: 
-    min_ = w[index] * n  
+    min_ = w[i] * n  
     max_min = max(max_min, min_)  
     
     i += 1 
