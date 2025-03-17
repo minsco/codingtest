@@ -3,9 +3,9 @@
 def knapsack(n, k, items):
     dp = [0] * (k + 1)
 
-    # 각 물건을 하나씩 확인
+    #각 물건을 하나씩 확인
     for W, V in items:
-        # 무게 초과를 방지하기 위해 뒤에서부터 탐색
+        #뒤에서부터 탐색
         for current_W in range(k, W - 1, -1):
             dp[current_W] = max(dp[current_W], dp[current_W - W] + V)
 
