@@ -9,7 +9,6 @@ def knapsack(n, k, items):
         for current_W in range(k, W - 1, -1):
             dp[current_W] = max(dp[current_W], dp[current_W - W] + V)
 
-
     return dp[k]
 
 #입력
