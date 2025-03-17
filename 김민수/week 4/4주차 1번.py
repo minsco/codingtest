@@ -12,5 +12,8 @@ def tiling(n):
 
     return b  
 
-n = int(input())  
+#입력
+n = int(input())
+
+#결과
 print(tiling(n) % 10007)  
