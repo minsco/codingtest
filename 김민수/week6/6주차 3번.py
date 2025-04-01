@@ -1,5 +1,5 @@
 #6주차 3번
-#중복 허용 ver
+# 같은 수 허용 ver
 
 N, M = map(int, input().split())
 result = []

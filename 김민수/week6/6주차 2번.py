@@ -1,5 +1,5 @@
-#6주차 2번
-#오름차순 ver
+# 6주차 2번
+# 오름차순 ver
 
 N, M = map(int, input().split())
 result = []

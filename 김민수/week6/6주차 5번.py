@@ -1,8 +1,11 @@
-# 6주차 1번
-# 정석 ver (중복 순열 X , 같은 수 X)
+# 6주차 5번
+# 정석 + 정렬 ver
 
 N, M = map(int, input().split())
-visited = [False] * (N + 1)
+numbers = list(map(int, input().split()))
+numbers.sort() 
+
+visited = [False] * N
 result = []
 
 def backtrack(depth):
@@ -10,13 +13,13 @@ def backtrack(depth):
         print(' '.join(map(str, result)))
         return
 
-    for i in range(1, N + 1):
+    for i in range(N):
         if not visited[i]:
             visited[i] = True
-            result.append(i)
-
+            result.append(numbers[i])
+            
             backtrack(depth + 1)
-
+            
             visited[i] = False
             result.pop()
 
