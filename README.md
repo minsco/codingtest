@@ -55,3 +55,21 @@
 10. [N과 M10](https://www.acmicpc.net/problem/15664)
 11. [N과 M11](https://www.acmicpc.net/problem/15665)
 12. [N과 M12](https://www.acmicpc.net/problem/15666)
+
+## 7주차 문자열 알고리즘 선정 문제
+
+1. [나는 친구가 적다 (Small)](https://www.acmicpc.net/problem/16171)
+2. [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154)
+3. [단어뒤집기2](https://www.acmicpc.net/problem/17413)
+4. [부분 문자열](https://www.acmicpc.net/problem/6550)
+5. [듣보잡](https://www.acmicpc.net/problem/1764)
+
+## 8주차 이분탐색 알고리즘 선정 문제
+
+1. [숫자 카드](https://www.acmicpc.net/problem/10815)
+2. [랜선 자르기](https://www.acmicpc.net/problem/1654)
+3. [나무 자르기](https://www.acmicpc.net/problem/2805)
+4. [예산](https://www.acmicpc.net/problem/2512)
+5. [입국심사](https://www.acmicpc.net/problem/3079)
+
+
