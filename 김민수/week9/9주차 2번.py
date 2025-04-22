@@ -12,7 +12,7 @@ K = int(input())
 for _ in range(K):
     i, j, x, y = map(int, input().split())
     total = 0
-    for row in range(a-1, x):        
+    for row in range(i-1, x):        
         for col in range(j-1, y):     
             total += A[row][col]
     print(total)
